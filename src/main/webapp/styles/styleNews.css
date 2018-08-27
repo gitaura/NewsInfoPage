@@ -1,0 +1,15 @@
+﻿
+
+.container{
+	
+
+	margin: 0 auto;
+}
+
+
+
+.columns{
+	display: flex;
+	justify-content: space-between;
+}
+
